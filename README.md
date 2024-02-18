@@ -1,1 +1,2 @@
-# slide-crush
+# Slide-Puzzle
+Slide Puzzle create in javascript
